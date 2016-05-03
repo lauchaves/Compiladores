@@ -1,0 +1,6 @@
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs

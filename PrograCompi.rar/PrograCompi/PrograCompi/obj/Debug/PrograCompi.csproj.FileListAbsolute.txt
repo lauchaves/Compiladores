@@ -1,0 +1,152 @@
+c:\users\jona_rv\documents\visual studio 2013\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Documents\Visual Studio 2013\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\laure\Documents\Visual Studio 2012\Projects\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\Jona_RV\Desktop\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Proyecto\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 7 Semestre\Compiladores\Final\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\laure\Desktop\PrograCompi.zip (2)\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\Jona_RV\Downloads\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Lexer1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1Listener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1BaseListener.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1Visitor.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\Parser1BaseVisitor.cs
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
