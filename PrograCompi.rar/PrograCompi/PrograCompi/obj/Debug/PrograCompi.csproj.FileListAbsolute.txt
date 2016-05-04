@@ -150,3 +150,15 @@ C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\Prog
 C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
 C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
 C:\Users\laure\Desktop\PROYECTO 2 COMPILADORES\Version Agro\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe.config
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.exe
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.pdb
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.exe
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\PrograCompi.pdb
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.dll
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\bin\Debug\Antlr4.Runtime.xml
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csprojResolveAssemblyReference.cache
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Form1.resources
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.Properties.Resources.resources
+C:\Users\laure\Documents\REPOSITORIO\Compiladores\PrograCompi.rar\PrograCompi\PrograCompi\obj\Debug\PrograCompi.csproj.GenerateResource.Cache
