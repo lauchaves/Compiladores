@@ -440,7 +440,7 @@ public class AContextual : Parser1BaseVisitor<Object>
                     MetodoActual = null;
                     ContextoActual = 0;
                     Return = false;
-                    //ReturnMayor = false;
+                    ReturnMayor = false;
 
                     return null;
                 }
@@ -462,19 +462,19 @@ public class AContextual : Parser1BaseVisitor<Object>
                     {
                         throw new Exception("Error: '" + MetodoActual + "': No todas las rutas de código devuelven un valor" + ", línea: " + context.ID().Symbol.Line + " columna: " + context.ID().Symbol.Column + "\n");
                     }
-                    /*
+                    
 
                     if (!ReturnMayor)
                     {
                         throw new Exception("Error: '" + MetodoActual + "': No todas las rutas de código devuelven un valor" + ", línea: " + context.ID().Symbol.Line + " columna: " + context.ID().Symbol.Column + "\n");
                     }
-                     * */
+                    
 
                     Tabla.eliminarVariables();
                     MetodoActual = null;
                     ContextoActual = 0;
                     Return = false;
-                   // ReturnMayor = false;
+                    ReturnMayor = false;
 
                     return null;
                 
@@ -1008,7 +1008,7 @@ public class AContextual : Parser1BaseVisitor<Object>
                 ContadorCiclos++;
 
                 Visit(context.statement(1));
-
+                ReturnMayor = false;
                 
                 ContadorCiclos--;
 
@@ -1043,7 +1043,7 @@ public class AContextual : Parser1BaseVisitor<Object>
 
                 Visit(context.statement(1));
 
-
+                ReturnMayor = false;
                 ContadorCiclos--;
 
                 return null;
@@ -1080,7 +1080,7 @@ public class AContextual : Parser1BaseVisitor<Object>
 
                 Visit(context.statement(1));
 
-
+                ReturnMayor = false;
                 ContadorCiclos--;
 
                 return null;
@@ -1468,8 +1468,8 @@ public class AContextual : Parser1BaseVisitor<Object>
         Visit(context.condition());
         ContadorCiclos++;
         Visit(context.statement());
-        ContadorCiclos--; 
-
+        ContadorCiclos--;
+        ReturnMayor = false;
 
         return null; 
     
